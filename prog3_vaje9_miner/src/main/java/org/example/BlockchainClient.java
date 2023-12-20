@@ -40,7 +40,14 @@ public class BlockchainClient {
             throw new RuntimeException(e);
         }
     }
-
+    //submit a new block
+    public static void submitBlock(String message){
+        try {
+            userSession.getBasicRemote().sendText(message);
+        }catch (Exception e){
+            System.out.println(e);
+        }
+    }
 
 
     public static void connect(BlockingQueue<Item> queue){
