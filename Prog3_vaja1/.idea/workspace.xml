@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="773c2c6c-4554-43ee-8192-78657466ee3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/Prog3_vaje6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/src/Job.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prog3_vaje6/src/Summator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/CryptoUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/InputHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/MessageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/Peer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../p2pChatTemplate/src/main/java/org/example/Protocol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/prog3_vaja1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaja1/src/Nit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/prog3_vaje2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/src/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/src/MatrixMul.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje2/src/TestCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/prog3_vaje3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje3/src/StejDosti.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/prog3_vaje4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/src/FindMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje4_threadpool/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/prog3_vaje5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/src/Buffer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/src/PCqueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje5/src/ProducerConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/prog3_vaje7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje7/src/ParallelCCTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/prog3_vaje8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/src/DumbForkJoinTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/src/FjStDeljiteljev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje8/src/StejDeljitelje.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/src/main/java/org/example/Block.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/src/main/java/org/example/BlockchainClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/src/main/java/org/example/Miner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/src/main/java/org/example/item/ClientItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/src/main/java/org/example/item/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prog3_vaje9_miner/src/main/java/org/example/item/MinerItem.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2nHSKwZz96K2w4MEU7HS68T4rg7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.387" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.387" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="773c2c6c-4554-43ee-8192-78657466ee3e" name="Changes" comment="" />
+      <created>1728628447949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728628447949</updated>
+      <workItem from="1728628449009" duration="224000" />
+      <workItem from="1728628687565" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
