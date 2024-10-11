@@ -50,7 +50,7 @@ public class Main {
             JsonObject json = new JsonObject();
             json.addProperty("content",nextBlock.content);
             json.addProperty("hash",nextBlock.hash);
-            String message = "submit-block:"+gson.toJson(json);
+            String message = "submit-block:"+gson.toJson(json);//deluje tudi s to string
             BlockchainClient.submitBlock(message);
         }
     }
