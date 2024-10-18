@@ -1,7 +1,7 @@
-package org.Vaje2;
+package org.Vaje3;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Counter {
-    public int count=0;
+    public AtomicInteger count=new AtomicInteger(0);
 }

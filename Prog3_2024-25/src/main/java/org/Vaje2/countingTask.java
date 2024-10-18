@@ -11,7 +11,7 @@ public class countingTask implements Runnable {
     public void run() {
         Logger.log("Counting...");
         for (int i = 0; i < 100_000; i++) {
-            counter.count.getAndIncrement();
+            counter.count++;
         }
         Logger.log("Done counting.");
     }
