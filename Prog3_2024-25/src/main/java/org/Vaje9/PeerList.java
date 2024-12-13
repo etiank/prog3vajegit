@@ -29,7 +29,13 @@ public class PeerList {
 
     public synchronized static void connectToRemote(String ip){
         Socket socket = null;
-        
+
+        for(Peer peer : peers){
+            if(ip.equals(peer.getIP())){
+                return;
+            }
+        }
+
         try {
             socket = new Socket(ip, Constants.PORT);
         } catch (IOException e) {

@@ -20,23 +20,32 @@ public class ProtocolHandler extends Thread{
                 continue;
             }
 
+            if(!CryptoUtil.verifyMessage(task.message)){
+                continue;
+            }
+
             if (history.contains(task.message.id)){
                 continue;
             }
             history.add(task.message.id);
 
-            switch (task.message.type) {
+
+
+            try{
+                switch (task.message.type) {
                 case CHAT -> handleChat(task);
                 case PEER_DISCOVERY_REQUEST -> handlePeerDiscoveryRequest(task);
                 case PEER_DISCOVERY_RESPONSE ->handlePeerDiscoveryResponse(task);
-            }
-        }
+            }}catch(Exception e){
+                Logger.log("Error handling message!", LogLevel.Error);
+            }        }
     }
     
     private void handleChat(Task task){
-        Logger.log(task.message.body, LogLevel.Success);
-        // PeerList.broadcast(task.message);
+        Logger.chat(task.message.sender, task.message.body);
+        //PeerList.broadcast(task.message);
     }
+
 
     private void handlePeerDiscoveryRequest(Task task){
         int ipsToPull = Integer.parseInt(task.message.body);

@@ -42,4 +42,8 @@ public class Logger {
         
     }
 
+    public static void chat(String sender, String body){
+        System.out.println(CYAN + "[" + sender + "] " + body);
+    }
+
 }

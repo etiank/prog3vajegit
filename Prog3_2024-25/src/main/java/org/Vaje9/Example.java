@@ -7,6 +7,7 @@ public class Example {
     public static void main(String[] args) throws IOException {
         //to connect: telnet localhost 7777
         //to see: netstat -nlp | grep 7777
+        CryptoUtil.generatePubPvtKey();
 
        new Server().start();
        new UserInput().start();

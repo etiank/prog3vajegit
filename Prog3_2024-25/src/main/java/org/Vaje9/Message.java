@@ -7,17 +7,24 @@ public class Message {
     public final MessageType type;
     public final String body;
     public final String id;
-    public final String sender;
+    public String sender;
+    public String signature;
 
     public Message(String rawMessage) throws IOException {
-        String[] tokens = rawMessage.split(" ", 4);//2 pomeni da splita na maximum 2 kosa
-        if (tokens.length != 4) {
+        String[] tokens = rawMessage.split(" ", 5);//2 pomeni da splita na maximum 2 kosa
+        if (tokens.length != 5) {
             throw new IOException("Invalid message structure");
         }
+
         this.id = tokens[0];
-        this.type = MessageType.valueOf(tokens[1]);
+        try {
+            this.type = MessageType.valueOf(tokens[1]);
+        } catch (IllegalArgumentException ex) {
+            throw new IOException("Invalid message structure");
+        }
         this.sender = tokens[2];
-        this.body = tokens[3];
+        this.signature = tokens[3];
+        this.body = tokens[4];
 
     }
 
@@ -29,7 +36,7 @@ public class Message {
     }
 
     public String toString() {
-        return id + " " + type + " " + sender + " " + body;
+        return id + " " + type + " " + sender + " " + signature + " " + body;
     }
 
 }

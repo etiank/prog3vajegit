@@ -44,7 +44,7 @@ public class Peer implements Runnable{
                 break;
             }
             
-            Logger.log(message.toString(),LogLevel.Debug);
+            //Logger.log(message.toString(),LogLevel.Debug);
             TaskQueue.queue.add(new Task(this, message));
 
             
@@ -74,8 +74,12 @@ public class Peer implements Runnable{
     }
 
     public void sendMessage(Message message) {
+
+        if (message.signature == null){
+            CryptoUtil.signMessage(message);
+        }
+
         try {
-            Logger.log("Sending message", LogLevel.Debug);
             peerWriter.write(message+"\n");
             peerWriter.flush();
         } catch (IOException e) {
